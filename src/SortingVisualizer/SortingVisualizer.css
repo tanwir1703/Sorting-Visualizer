@@ -1,0 +1,38 @@
+#bod{
+    background-image: url(145562.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.toolbar{
+    display: block;
+    margin: auto;
+}
+
+.array-container {
+    position: absolute;
+    display: block;
+    margin: auto;
+    background-image: url(145562.jpg);
+    width: 100vw;
+    height: 100vh;
+    /* top: 100px; */
+  }
+  
+  .array-bar {
+    display: inline-block;
+    margin: 0 2px;
+  }
+
+  button{
+	background: transparent;
+	border: none;
+	outline: none;
+	color: #fff;
+	background: #03a9f4;
+	padding: 10px 20px;
+	cursor: pointer;
+    border-radius: 5px;
+    margin-left: 10px;
+    left: 100px;
+}
